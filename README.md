@@ -1,1 +1,1 @@
-<img src="2022-09-04_171845.png" width=50% align="middle"><img src="2022-09-04_171911.png" width=50% align="middle"><img src="2022-09-04_171949.png" width=50% align="middle"><img src="2022-09-04_172016.png" width=50% align="middle"><img src="Задание_1.png" width=50% align="middle">
+<img src="2022-09-04_171845.png" width=46% align="middle"><img src="2022-09-04_171911.png" width=54% align="middle"><img src="2022-09-04_171949.png" width=54% align="middle"><img src="2022-09-04_172016.png" width=46% align="middle"><img src="Задание_1.png" width=46% align="middle">

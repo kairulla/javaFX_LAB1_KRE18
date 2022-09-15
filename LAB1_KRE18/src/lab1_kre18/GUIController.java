@@ -50,7 +50,8 @@ public class GUIController implements Initializable {
         }
         
         if (!(Double.isNaN(y)) && (!Double.isInfinite(y))) {
-            labelOtvet.setText("Ответ: " + String.format("%.2f", y));
+            //labelOtvet.setText("Ответ: " + String.format("%.2f", y));
+            labelOtvet.setText(String.valueOf(y));
         } else {
             labelOtvet.setText("Нет решения!");
         }
